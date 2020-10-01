@@ -9,3 +9,8 @@ npm install
 ```
 npm run serve
 ```
+
+
+
+Bugs
+Vuejs-dialog-confirm ile oluşturulan confirm tüm componentlara bağlı o düzenlenecek. # [checkbox:unchecked]
